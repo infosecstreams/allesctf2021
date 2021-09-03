@@ -1,5 +1,5 @@
 ---
-## title: "Pyimplant"
+title: "Pyimplant"
 subtitle: "ALLES! CTF 2021"
 author: GoProSlowYo
 date: "2021-09-03"
