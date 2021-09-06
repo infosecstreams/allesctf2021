@@ -4,6 +4,8 @@ Writeups from the [OnlyFeet CTF Team](https://ctftime.org/team/144644).
 
 ## Writeups
 
+Legend: ✔️ = Solved (and we may or not have written the writeup.)
+
 ### Boomer Crypto
 
 [Nostego](./nostego/)
@@ -22,7 +24,7 @@ Writeups from the [OnlyFeet CTF Team](https://ctftime.org/team/144644).
 
 [PixelCat](./pixelcat/)
 
-[✔ Pyimplant](./pyimplant/)
+✔️ [Pyimplant](./pyimplant/)
 
 ### Pwn
 
@@ -30,7 +32,7 @@ Writeups from the [OnlyFeet CTF Team](https://ctftime.org/team/144644).
 
 [🔥 Counter Strike: Squirrel Offensive](./csso/)
 
-[Jumpy](./jumpy/)
+✔️ [Jumpy](./jumpy/)
 
 [Ransom vaccine](./ransomvaccine/)
 
@@ -54,9 +56,9 @@ Writeups from the [OnlyFeet CTF Team](https://ctftime.org/team/144644).
 
 [BOOcommerce](./boocommerce/)
 
-[✔ J(ust)-S(erving)-P(ages)](./j-s-p/)
+✔️ [J(ust)-S(erving)-P(ages)](./j-s-p/) (Writeup not yet written but we solved this too)
 
-[✔ Sanity Check](./sanitycheck/)
+✔️ [Sanity Check](./sanitycheck/)
 
 ### Zoomer Crypto
 
